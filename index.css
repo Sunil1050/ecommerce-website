@@ -1,0 +1,216 @@
+
+.hei {
+    height: 80px;
+}
+
+.ec-logo {
+    width: 150px;
+    height: 60px;
+}
+
+.ec-services-section {
+    background-color: white;
+    font-family: Roboto;
+}
+
+.ec-services-section-head {
+    color: #1f2933;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.ec-services-image {
+    height: 100px;
+    width: 100px;
+}
+
+.ec-services-section-para {
+    color: #616c7c;
+    font-size: 20px;
+}
+
+.ec-services-card-container {
+    padding: 15px;
+    text-align: center;
+}
+
+.services-card-container-head {
+    font-size: 26px;
+    color: #1f2933;
+}
+
+.services-card-container-para {
+    color: #616c7c;
+    font-size: 16px;
+}
+
+.ec-product-section {
+    background-color: white;
+    font-family: Roboto;
+}
+
+.ec-product-section-head {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.ec-product-section-cardcontainer {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    border-radius: 8px;
+    height: 40vh;
+    text-align: left;
+    background-size: cover;
+    padding: 10px;
+}
+
+.ec-product-section-cardcontainer1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    border-radius: 8px;
+    text-align: left;
+    background-size: cover;
+    padding: 10px;
+    height: 40vh;
+}
+
+.ec-product-section-cardcontainer-button {
+    color: #ff9f00;
+    background-color: white;
+    border-width: 0px;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+
+.one {
+    padding-top: 50px;
+}
+
+.link {
+    color: #ff9f00;
+    font-size: 20px;
+}
+
+.ec-offers-section {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+}
+
+.offers-head {
+    text-transform: capitalize;
+    color: #ad2167;
+    font-family: Bree Serif;
+    font-size: 32px;
+}
+
+.offers-para {
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+
+.offer-span {
+    font-weight: bold;
+    color: white;
+}
+
+.ec-explore-section {
+    background-color: #f5f7fa;
+    font-family: Roboto;
+}
+
+.ec-explore-section-head {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.ec-explore-section-card-head {
+    font-size: 28px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.explore-items-text {
+    color: #183b56;
+    font-size: 18px;
+}
+
+.link-explore {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.tv-appliance {
+    border-radius: 15px;
+}
+
+.contactus-section {
+    background-color: #f5f7fa;
+    height: 40vh;
+}
+
+
+.contactus-head {
+    font-size: 34px;
+    color: #183b56;
+}
+
+.contactus-button {
+    color: #ff9f00;
+    border-style: solid;
+    border-color: #ff9f00;
+    border-width: 3px;
+    background-color: white;
+    padding: 8px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+    height: 100%;
+}
+
+.icon-container-footer {
+    background-color: #152c3e;
+    border-radius: 50px;
+}
+
+.footer-icon {
+    font-size: 35px;
+    color: #5a7184;
+}
+
+.footer-section-para1 {
+    font-size: 18px;
+    color: #5a7184;
+    margin-top: 16px;
+}
+
+.footer-card-head {
+    color: #5a7184;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.footer-card-para {
+    font-size: 18px;
+    color: #5a7184;
+}
+
+.footer-line {
+    line-height: 14px;
+}
+
+.footer-hr-line {
+    color: #5a7184;
+}
+
+.footer-icon1 {
+    font-size: 30px;
+}
+
+.copyrt-para {
+    font-size: 20px;
+    color: #5a7184;
+}
